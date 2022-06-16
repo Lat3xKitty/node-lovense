@@ -1,0 +1,16 @@
+{
+  "name": "node-lovense",
+  "version": "1.0.0",
+  "description": "Connect and Access Lovense toys through NodeJS!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
